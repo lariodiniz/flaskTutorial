@@ -1,0 +1,6 @@
+1 - Set as variaveis de ambiente
+set FLASK_APP=flaskr
+set FLASK_ENV=development
+
+2 - execue o comando no prompt de comando
+flask run
